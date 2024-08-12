@@ -1,2 +1,1 @@
-Im learning programming.
-Im a doctor, recentlly graduated from college 
+My Portfolio-HTML was created in 2024 thank u to the Complete Bookcamp Front-End 
